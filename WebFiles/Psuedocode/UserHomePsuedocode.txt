@@ -1,0 +1,2 @@
+﻿1. Add Yavishti's
+  -Communicate with Badges page to get level information.
