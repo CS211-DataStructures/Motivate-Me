@@ -1,0 +1,8 @@
+﻿VARIABLES 
+-Set the images as global variables
+-Set the doubly linked list as a global variable
+
+METHODS
+1. In constructor  
+  -Instantiate a new doubly linked list that contains the badge images
+2.
